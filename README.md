@@ -5,5 +5,3 @@ This is a core theme for all other MK THEMES
 wordpresss
 ## Author
 Mohamed KADI
-www.mohamedkadi.com
-
